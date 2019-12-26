@@ -1,0 +1,28 @@
+/* Game Area */
+
+.game-area {
+    padding: 20px;
+    margin:0;
+    float: left;
+    width: 300px;
+}
+
+.clear {
+    clear: both;
+}
+.spinner {
+  width: 100%;
+  height: 100%;
+}
+
+.spinner > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.start-new-btn{
+  margin-top: 20px;
+}
+.text-center{
+  text-align: center;
+}
